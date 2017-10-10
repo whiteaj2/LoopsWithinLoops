@@ -313,6 +313,7 @@ def triangle_all_numbers_in_each_row(r):
         for j in range(k+1):
             print(j+1, end='')
         print()
+    #comment so I can commit again
 
 
 # ----------------------------------------------------------------------
